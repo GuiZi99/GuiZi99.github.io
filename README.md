@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# 个人信息
 
-You can use the [editor on GitHub](https://github.com/GuiZi99/GuiZi99.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+- 桂梓豪/男/1997
+- 本科/北京理工大学计算机系
+- 工作年限：0年
+- Github：http://github.com/GuiZi99
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 期望岗位：Web前端工程师
+- 期望薪资：税前10k~15k
+- 期望城市：上海
 
-### Markdown
+# 联系方式
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 手机：18177260898
+- Email：961831445@qq.com
+- 微信：GG961831445
 
-```markdown
-Syntax highlighted code block
+# 开源项目和作品
+（这一段用于放置工作之外，可以证明你的能力的资料）
 
-# Header 1
-## Header 2
-### Header 3
+## 开源项目
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuiZi99/GuiZi99.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 技术文章
